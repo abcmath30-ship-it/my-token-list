@@ -1,1 +1,17 @@
-
+{
+  "name": "Tea Token List",
+  "timestamp": "2026-03-15T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "logoURI": "https://raw.githubusercontent.com/abcmath30-ship-it/my-token-list/main/assets/Logo.png",
+  "keywords": ["tea","token","base"],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x264d88c6Dc8eB35880d9548626510650e6DFDc85",
+      "symbol": "TEA",
+      "name": "Tea",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/abcmath30-ship-it/my-token-list/main/assets/Logo.png"
+    }
+  ]
+}
